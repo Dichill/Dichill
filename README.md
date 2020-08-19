@@ -8,6 +8,13 @@ My name is Dichill, I code for fun and if you need help, you can contact me in D
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-Django-brightgreen)
+![](https://img.shields.io/badge/Code-C%2B%2B-brightgreen)
+![](https://img.shields.io/badge/Code-Java-brightgreen)
+![](https://img.shields.io/badge/Editor-Visual%Studio%Code-brightgreen)
+![](https://img.shields.io/badge/Python-Machine%Learning-brightgreen)
+![](https://img.shields.io/badge/Python-Scraper-brightgreen)
+
 
 ## &#x1f4c8; GitHub Stats
 
