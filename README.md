@@ -1,4 +1,4 @@
-[![Header](https://github.com/Dichill/Dichill/blob/master/header.png "Header")
+[Header](https://github.com/Dichill/Dichill/blob/master/header.png "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/Dichill/Dichill/master/wave.gif" width="30px">
 
