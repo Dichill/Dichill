@@ -4,7 +4,7 @@ Hi I'm Dichill!
 Fullstack Developer | C# Developer | Python Developer
 -----------------------------------------------------
 
-I have been learning how to code since I was 13 years old. At that time I was mostly interested in making Robotics, and making exploits in Roblox. Soon after that I had gained a lot of knowledge which helped me improve and widen my skills in programming.
+I have been learning how to code since I was 13 years old, and I'm still growing strong. If you want to collaborate with me, don't hesitate to dm me ^.^
 
 * 🌍  I'm based in Philippines
 * 🧠  I'm learning WPF & C#
