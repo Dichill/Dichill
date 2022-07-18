@@ -6,7 +6,7 @@ Fullstack Developer | C# Developer | Python Developer
 
 I have been learning how to code since I was 13 years old, and I'm still growing strong. If you want to collaborate with me, don't hesitate to dm me ^.^
 
-* 🌍  I'm based in Philippines
+* 🌍  I'm based in The Philippines.
 * 🧠  I'm learning WPF & C#
 * 🤝  I'm open to collaborating on Interesting Projects and Projects that will change the world.
 * ⚡  Im single, in case you didn't know.
