@@ -9,7 +9,7 @@ I have been learning how to code since I was 13 years old, and I'm still growing
 * 🌍  I'm based in The Philippines.
 * 🧠  I'm learning WPF & C#
 * 🤝  I'm open to collaborating on Interesting Projects and Projects that will change the world.
-* ⚡  Im taken - Gabby
+* ⚡  Im taken - G
 
 <a href="https://www.twitter.com/itzdichill" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/itzdichill?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
