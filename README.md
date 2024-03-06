@@ -4,12 +4,9 @@ Hi I'm Dichill!
 Fullstack Developer | C# Developer | Python Developer
 -----------------------------------------------------
 
-I have been learning how to code since I was 13 years old, and I'm still growing strong. If you want to collaborate with me, don't hesitate to dm me ^.^
-
-* 🌍  I'm based in The Philippines.
+* 🌍  Philippines.
 * 🧠  I'm learning WPF & C#
-* 🤝  I'm open to collaborating on Interesting Projects and Projects that will change the world.
-* ⚡  Im taken - G
+* 🤝  Would love to collab and help anyone.
 
 <a href="https://www.twitter.com/itzdichill" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/itzdichill?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
