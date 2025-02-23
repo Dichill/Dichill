@@ -4,7 +4,7 @@ Hi I'm Dichill!
 Fullstack Developer | C# Developer | Python Developer
 -----------------------------------------------------
 
-* 🌍  Philippines.
+* 🌍  USA x PH
 * 🧠  I'm learning WPF & C#
 * 🤝  Would love to collab and help anyone.
 
